@@ -1,0 +1,149 @@
+#include <stdio.h>
+#include <math.h>
+#include <regex.h>
+char var="a";
+int variable=5,v2=6;
+float hola=5.5;
+int main()}
+    float c = 3.2
+    printf("hola mundo");
+    scanf("%f",&f);
+    return 0;
+}
+char nombre = 'hola';
+int mi_numero = 0;
+int a;
+int b =  a;
+printf('compilador');
+                  char v[];
+int main(         ){
+
+for ( i = 0; i <= 10; i++)}
+	printf("=hola");
+}
+
+
+                                      float f;
+do{
+
+i++;
+}
+
+while(a>=5){
+int a=3;
+int main (   ){
+a
+int;
+float c;
+int funcion(int a, int b);
+if(hola = True){
+i--;
+}
+else{
+print("nada");
+}
+switch(opcion){}
+}
+
+5 > 3;
+
+#include<conio.h>
+void imprimir(char cadena){}
+	print(&cadena)
+}
+imprimir("hola")
+
+float a = 5.5, b = 9.2, c = 10.0, d = 8.8;
+
+if(condicion == True){
+int main(){
+
+int suma(a = 0, b=1)}
+ }
+while()}
+while(a==5){
+if (a == 0)}}
+int a,b,c;
+float pi = 3.14, g = 9.8;
+while (a == 1){
+if ( a != b){}
+float peso(float masa, float g){
+a = a + b;;
+a += b;
+while(a<=5){ 
+do{{
+else {
+
+int a,b,c;
+int a = 5,  b= 8, c =10;
+ else if(c == b){
+else if(c == b){ }
+else if(c == b){{
+else if(c == b){ }}
+else if(c == b)}
+if(c == b){
+if(c == b){ }
+ if(c == b){{
+ if(c == b){ }}
+if(c == b)}
+else{
+else{{
+else{}
+else{}}
+else}
+int main(){
+int main(){{
+int main(){}
+int main(){}}
+int main()}
+while (a == 1){
+while (a == 1){}
+while (a == 1){{
+while (a == 1){}}
+while (a == 1){{}
+while (a == 1)}}}}
+int a,b,c;
+int a = 5,  b= 8, c =10;
+do{
+do{{
+do { }
+do{}}
+do{{}
+do}
+for ( i = 0; i <= 10; i++){ }
+for ( i = 0; i <= 10; i++){
+for ( i = 0; i <= 10; i++)}
+for ( i = 0; i <= 10; i++){
+for ( i = 0; i <= 10; i++){}}
+for ( i = 0; i <= 10; i++){{}
+while (a != 1){
+while (a <= 1){}
+while (a >= 1){
+while (a = 1){}
+while (a = 1){
+while (a < 1){
+while (a > 1){}
+int a,b,c;
+int a = 5,  b= 8, c =10;
+int a,b,c;;
+int a = 5,  b= 8, c =10;;
+a = b;
+a = b;;
+i++;
+i++;;
+i--;
+i--;;
+float peso(float masa, float g){
+float peso(float masa, float g){}
+float peso(float masa, float g){}}
+float peso(float masa, float g){{
+float peso(float masa, float g){{}
+float peso(float masa, float g)}
+int funcion(int a, int b);
+int funcion(int a, int b);;
+switch (opcion){
+switch (opcion){  }
+switch (opcion){{
+switch (opcion){ }}
+switch (opcion)}
+switch (opcion){{ }
